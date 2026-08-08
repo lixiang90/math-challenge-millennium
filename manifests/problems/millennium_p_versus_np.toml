@@ -1,0 +1,9 @@
+id = "millennium_p_versus_np"
+title = "Millennium Prize: P versus NP"
+test = false
+module = "LeanEval.Millennium.Problems.PVersusNP.Prize"
+holes = ["Millennium.clay_prize_p_versus_np"]
+submitter = "lean-dojo/LeanMillenniumPrizeProblems contributors"
+notes = "The target is an explicit resolution type with constructors for both P = NP and P != NP; it is not the classically trivial excluded-middle proposition."
+source = "https://github.com/lean-dojo/LeanMillenniumPrizeProblems/tree/fd5207106c8c13c40cd4eeb0acb169c2c4e58aeb/Problems/PVersusNP/Millennium.lean"
+informal_solution = "Construct either the positive branch (a deterministic polynomial-time simulation of every NP verifier) or the negative branch (a proof that no such simulation exists)."

@@ -1,0 +1,12 @@
+{
+  "id": "millennium_poincare_conjecture",
+  "module": "LeanEval.Millennium.Problems.Poincare.Prize",
+  "holes": [
+    {
+      "name": "MillenniumPoincare.clay_prize_poincare_conjecture",
+      "basename": "clay_prize_poincare_conjecture",
+      "kind": "theorem",
+      "body": "/-- Millennium Prize: Poincare Conjecture. -/\r\ntheorem clay_prize_poincare_conjecture : ClayPoincareConjecture.{u_poincare} := by\r\n  sorry"
+    }
+  ]
+}

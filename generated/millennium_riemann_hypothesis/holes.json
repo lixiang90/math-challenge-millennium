@@ -1,0 +1,12 @@
+{
+  "id": "millennium_riemann_hypothesis",
+  "module": "LeanEval.Millennium.Problems.RiemannHypothesis.Prize",
+  "holes": [
+    {
+      "name": "Millennium.clay_prize_riemann_hypothesis",
+      "basename": "clay_prize_riemann_hypothesis",
+      "kind": "theorem",
+      "body": "/-- Millennium Prize: Riemann Hypothesis. -/\r\ntheorem clay_prize_riemann_hypothesis : ClayRiemannHypothesis := by\r\n  sorry"
+    }
+  ]
+}

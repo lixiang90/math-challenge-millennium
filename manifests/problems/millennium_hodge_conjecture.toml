@@ -1,0 +1,9 @@
+id = "millennium_hodge_conjecture"
+title = "Millennium Prize: Hodge Conjecture"
+test = false
+module = "LeanEval.Millennium.Problems.Hodge.Prize"
+holes = ["MillenniumHodge.clay_prize_hodge_conjecture"]
+submitter = "lean-dojo/LeanMillenniumPrizeProblems contributors"
+notes = "The cycle-class statement uses a canonical-realization interface anchored to Mathlib's algebraic-geometry and singular-homology structures."
+source = "https://github.com/lean-dojo/LeanMillenniumPrizeProblems/tree/fd5207106c8c13c40cd4eeb0acb169c2c4e58aeb/Problems/Hodge/Millennium.lean"
+informal_solution = "Show that every rational Hodge class in the encoded smooth projective setting is algebraic."

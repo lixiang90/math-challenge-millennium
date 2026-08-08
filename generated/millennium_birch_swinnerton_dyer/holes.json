@@ -1,0 +1,12 @@
+{
+  "id": "millennium_birch_swinnerton_dyer",
+  "module": "LeanEval.Millennium.Problems.BirchSwinnertonDyer.Prize",
+  "holes": [
+    {
+      "name": "MillenniumBirchSwinnertonDyer.clay_prize_birch_swinnerton_dyer",
+      "basename": "clay_prize_birch_swinnerton_dyer",
+      "kind": "theorem",
+      "body": "/-- Millennium Prize: Birch and Swinnerton-Dyer Conjecture. -/\r\ntheorem clay_prize_birch_swinnerton_dyer : ClayBirchSwinnertonDyer := by\r\n  sorry"
+    }
+  ]
+}

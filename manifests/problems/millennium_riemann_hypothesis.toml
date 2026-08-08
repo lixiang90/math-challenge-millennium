@@ -1,0 +1,9 @@
+id = "millennium_riemann_hypothesis"
+title = "Millennium Prize: Riemann Hypothesis"
+test = false
+module = "LeanEval.Millennium.Problems.RiemannHypothesis.Prize"
+holes = ["Millennium.clay_prize_riemann_hypothesis"]
+submitter = "lean-dojo/LeanMillenniumPrizeProblems contributors"
+notes = "The target is the critical-line formulation for every nontrivial zero of the Riemann zeta function."
+source = "https://github.com/lean-dojo/LeanMillenniumPrizeProblems/tree/fd5207106c8c13c40cd4eeb0acb169c2c4e58aeb/Problems/RiemannHypothesis/Millennium.lean"
+informal_solution = "Prove that every nontrivial zero of the Riemann zeta function has real part 1/2."

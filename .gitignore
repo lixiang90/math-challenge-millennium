@@ -1,0 +1,7 @@
+**/.lake/
+**/lake-manifest.json
+**/*.olean
+**/*.ilean
+**/*.trace
+**/*.o
+**/*.c

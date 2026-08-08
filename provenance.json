@@ -1,0 +1,16 @@
+{
+  "source_repository": "https://github.com/lean-dojo/LeanMillenniumPrizeProblems",
+  "source_commit": "fd5207106c8c13c40cd4eeb0acb169c2c4e58aeb",
+  "lean_eval_repository": "https://github.com/leanprover/lean-eval",
+  "lean_eval_commit": "3f3786f3b4d9a4b64a5859b3036aca190cd25613",
+  "toolchain": "leanprover/lean4:v4.32.2",
+  "problem_ids": [
+    "millennium_p_versus_np",
+    "millennium_riemann_hypothesis",
+    "millennium_navier_stokes",
+    "millennium_hodge_conjecture",
+    "millennium_birch_swinnerton_dyer",
+    "millennium_yang_mills",
+    "millennium_poincare_conjecture"
+  ]
+}

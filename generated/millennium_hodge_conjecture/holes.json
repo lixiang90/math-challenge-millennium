@@ -1,0 +1,12 @@
+{
+  "id": "millennium_hodge_conjecture",
+  "module": "LeanEval.Millennium.Problems.Hodge.Prize",
+  "holes": [
+    {
+      "name": "MillenniumHodge.clay_prize_hodge_conjecture",
+      "basename": "clay_prize_hodge_conjecture",
+      "kind": "theorem",
+      "body": "/-- Millennium Prize: Hodge Conjecture. -/\r\ntheorem clay_prize_hodge_conjecture : ClayHodge.{u\u2081, u\u2082, u\u2083} := by\r\n  sorry"
+    }
+  ]
+}

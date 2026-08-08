@@ -1,0 +1,12 @@
+{
+  "id": "millennium_p_versus_np",
+  "module": "LeanEval.Millennium.Problems.PVersusNP.Prize",
+  "holes": [
+    {
+      "name": "Millennium.clay_prize_p_versus_np",
+      "basename": "clay_prize_p_versus_np",
+      "kind": "def",
+      "body": "/-- Clay Millennium Prize resolution target for P versus NP. -/\r\ndef clay_prize_p_versus_np : ClayPVersusNPResolution := by\r\n  sorry"
+    }
+  ]
+}

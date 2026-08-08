@@ -1,0 +1,9 @@
+id = "millennium_birch_swinnerton_dyer"
+title = "Millennium Prize: Birch and Swinnerton-Dyer Conjecture"
+test = false
+module = "LeanEval.Millennium.Problems.BirchSwinnertonDyer.Prize"
+holes = ["MillenniumBirchSwinnertonDyer.clay_prize_birch_swinnerton_dyer"]
+submitter = "lean-dojo/LeanMillenniumPrizeProblems contributors"
+notes = "The target is the Taylor/rank formulation for elliptic curves over Q with explicit L-series data."
+source = "https://github.com/lean-dojo/LeanMillenniumPrizeProblems/tree/fd5207106c8c13c40cd4eeb0acb169c2c4e58aeb/Problems/BirchSwinnertonDyer/Millennium.lean"
+informal_solution = "Prove the encoded equality between algebraic rank and analytic order of vanishing."

@@ -1,0 +1,12 @@
+{
+  "id": "millennium_yang_mills",
+  "module": "LeanEval.Millennium.Problems.YangMills.Prize",
+  "holes": [
+    {
+      "name": "MillenniumYangMills.clay_prize_yang_mills",
+      "basename": "clay_prize_yang_mills",
+      "kind": "theorem",
+      "body": "/-- Clay Millennium Prize target for Yang--Mills existence and mass gap. -/\r\ntheorem clay_prize_yang_mills : ClayYangMills := by\r\n  sorry"
+    }
+  ]
+}

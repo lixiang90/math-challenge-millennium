@@ -1,0 +1,12 @@
+{
+  "id": "millennium_navier_stokes",
+  "module": "LeanEval.Millennium.Problems.NavierStokes.Prize",
+  "holes": [
+    {
+      "name": "MillenniumNavierStokes.clay_prize_navier_stokes",
+      "basename": "clay_prize_navier_stokes",
+      "kind": "theorem",
+      "body": "/-- Millennium Prize: Navier-Stokes existence and smoothness. -/\r\ntheorem clay_prize_navier_stokes : ClayNavierStokes := by\r\n  sorry"
+    }
+  ]
+}
