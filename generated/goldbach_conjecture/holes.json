@@ -1,0 +1,12 @@
+{
+  "id": "goldbach_conjecture",
+  "module": "LeanEval.Problems.Goldbach.Prize",
+  "holes": [
+    {
+      "name": "Goldbach.goldbach_conjecture",
+      "basename": "goldbach_conjecture",
+      "kind": "theorem",
+      "body": "/-- Goldbach's conjecture (strong form). -/\r\ntheorem goldbach_conjecture : GoldbachConjecture := by\r\n  sorry"
+    }
+  ]
+}

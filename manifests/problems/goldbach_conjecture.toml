@@ -1,0 +1,9 @@
+id = "goldbach_conjecture"
+title = "Goldbach's Conjecture"
+test = false
+module = "LeanEval.Problems.Goldbach.Prize"
+holes = ["Goldbach.goldbach_conjecture"]
+submitter = "math-challenge.org"
+notes = "The strong (even) form of Goldbach's conjecture — every even integer greater than 2 is the sum of two primes. Included as a famous open problem for context; NOT a Millennium Prize problem."
+source = "https://github.com/lixiang90/math-challenge-millennium"
+informal_solution = "Prove that every even integer n with 4 <= n is the sum of two primes."

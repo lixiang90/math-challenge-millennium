@@ -1,10 +1,15 @@
 # Math-Challenge Millennium Prize Problems
 
-This public repository contains the seven standalone Lean workspaces used by
-[math-challenge.org](https://www.math-challenge.org/) for its Millennium Prize
+This public repository contains the standalone Lean workspaces used by
+[math-challenge.org](https://www.math-challenge.org/) for its formalization
 challenges. Each directory under `generated/` follows the official
 [`lean-eval`](https://github.com/leanprover/lean-eval) comparator format and is
 the exact starting point a participant should use for a submission.
+
+The seven Clay Mathematics Institute **Millennium Prize Problems** are the core
+of this repository. In addition, a small number of other famous open problems
+are included for context — most notably **Goldbach's conjecture**
+(`goldbach_conjecture`), which is **explicitly NOT a Millennium Prize problem**.
 
 ## Quick start
 
@@ -31,6 +36,7 @@ files independently before running the official comparator.
 | `millennium_birch_swinnerton_dyer` | theorem `clay_prize_birch_swinnerton_dyer` |
 | `millennium_yang_mills` | theorem `clay_prize_yang_mills` |
 | `millennium_poincare_conjecture` | theorem `clay_prize_poincare_conjecture` |
+| `goldbach_conjecture` | theorem `goldbach_conjecture` — **NOT a Millennium Prize problem** (famous open conjecture included for context) |
 
 ## Version and soundness policy
 
