@@ -2680,5 +2680,16 @@
       "zhang_bounded_prime_gaps"
     ],
     "generated_path": "generated/zhang_bounded_prime_gaps"
+  },
+  {
+    "id": "goldbach_conjecture",
+    "title": "Goldbach's Conjecture",
+    "test": false,
+    "submitter": "math-challenge.org",
+    "module": "LeanEval.Problems.Goldbach.Prize",
+    "holes": [
+      "Goldbach.goldbach_conjecture"
+    ],
+    "generated_path": "generated/goldbach_conjecture"
   }
 ]
